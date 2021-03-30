@@ -60,7 +60,7 @@ app.get("/help", (req, res) => {
   res.render("help", {
     title: "Help",
     name: "Ahad",
-    msg: "This is massege from dynamic",
+    msg: "Contact uzairahadmagsi0@gmail.com for help.",
   });
 });
 
